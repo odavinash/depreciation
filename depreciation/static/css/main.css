@@ -1,0 +1,64 @@
+body{
+    background: #eee;
+}
+span{
+    font-size:15px;
+}
+a{
+  text-decoration:none; 
+  color: #0062cc;
+  border-bottom:2px solid #0062cc;
+}
+.box{
+    padding:20px 0px;
+}
+
+.box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#4183D7;
+}
+
+
+.box-part-ad-1{
+    background:#FFF;
+    border-radius:0;
+    padding:10px 10px;
+    margin:10px 0px;
+}
+
+.box-part-btn{
+    background:#FFF;
+    border-radius:0;
+    padding:10px 10px;
+    margin:10px 0px;
+}
+
+.box-part-btn-space{
+  margin-left: 50px;
+}
+
+
+.box-part-footer{
+    background:#FFF;
+    border-radius:0;
+    padding:10px 10px;
+    margin:0px 0px;
+}
+
+
+.force-scroll {
+
+overflow-y: scroll;
+
+height: 200px;
+
+}
